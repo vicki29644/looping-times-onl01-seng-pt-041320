@@ -1,4 +1,4 @@
-def "using_times" 'Wingardium Leviosa' 7.times` construct".
+7.times "using_times" 'Wingardium Leviosa' .times` construct".
 end 
 
 
