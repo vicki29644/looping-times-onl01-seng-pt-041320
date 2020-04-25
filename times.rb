@@ -1,4 +1,4 @@
-7.times 'Wingardium Leviosa' .times` construct".
+7.times 'Wingardium Leviosa' 
 end 
 
 
