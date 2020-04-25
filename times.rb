@@ -1,4 +1,4 @@
-def 7.times 'Wingardium Leviosa' 
+def seven.times 'Wingardium Leviosa' 
 end 
 
 
